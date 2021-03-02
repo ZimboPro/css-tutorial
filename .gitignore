@@ -1,1 +1,3 @@
 omnifood/resources/css/img/.~lock.omnifood-content.docx#
+node_modules/
+*.css.map
